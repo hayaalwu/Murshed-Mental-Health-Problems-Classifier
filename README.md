@@ -5,7 +5,7 @@ College of Computer Science & Information Technology, Imam Abdulrahman Bin Faisa
 ---
 
 ## Overview
-Murshed is an Arabic Natural Language Processing (NLP) system designed to classify mental health consultation questions into six predefined categories. The system aims to help users identify a relevant mental health support category based on their written questions.
+Murshed is an Arabic Natural Language Processing (NLP) system designed to classify (not diagnose) mental health consultation questions into six predefined categories. The system aims to help users identify a relevant mental health support category based on their written questions.
 
 ## Repository layout
 
