@@ -58,9 +58,9 @@ The following examples were manually selected by project team members to demonst
 
 | Contributor | Model Section | Question Type | Original Category | Question |
 |------------|------------|------------|------------|------------|
-| Aleen Alzahrani | 6.1 BERT | Long | Neuropsychological Conditions | تعرضت لحادث سيارة أدى إلى صداع شديد ونوبات تشنجات متكررة، وأصبحت سريعة الخوف من أشياء عادية، مع رعشة في اليدين واضطراب في النوم والأرق، كما تراجع تركيزي وذاكرتي وأدائي في العمل |
-| Aleen Alzahrani | 6.1 BERT | Short | Behavioral Psychological Conditions | يعاني طفلي من سلوك عدواني متكرر؛ إذ يضرب أخته عندما أهتم بها أو أمنحها اهتمامًا |
-| Haya Alwuhaibi | 6.1 BERT | Long | Personality and Self Development | زوجي يستعيض غضبًا معي ومع أفراد أسرته بشكل متكرر، ويشعر أن الناس يكنون له العداء ولا يعاملونه بالإنصاف. وألاحظ أن هذه المشكلة مرتبطة بشخصيته وطريقة تعامله، إذ يعاني من العصبية والغضب السريع، وسرعة الانفعال، وضعف في الثقة بالنفس والتحكم في المزاج |
-| Najaf Almohsen | 6.2 SVM | Long | Psychotic Disorders | أسمع أصواتًا في رأسي تأمرني بأن آذي نفسي، وأشعر أن الناس يراقبونني أو يريدون الإيذاء بي. وأعاني من ضعف في التركيز والذاكرة والنسيان المتكرر، وأحيانًا أنسى الأشياء بسرعة، وأعاني من السرحان وعدم القدرة على الحفظ، مع اضطراب في النوم والأرق، ورعشة، وأحلام مزعجة |
-| Najaf Almohsen | 6.2 SVM | Short | Childhood Psychological Problems | ابني يذهب للروضة، لا يستطيع الجلوس بهدوء لفترة طويلة على مقعدة |
-| Haya Alwuhaibi | 6.2 SVM | Short | Other Psychological and Behavioral Issues | أشعر بالرغبة بإعادة ترتيب الأشياء من حولي دائمًا |
+| Aleen Alzahrani | 6.1 Arabic-SBERT & KNN| Long | Neuropsychological Conditions | تعرضت لحادث سيارة أدى إلى صداع شديد ونوبات تشنجات متكررة، وأصبحت سريعة الخوف من أشياء عادية، مع رعشة في اليدين واضطراب في النوم والأرق، كما تراجع تركيزي وذاكرتي وأدائي في العمل |
+| Aleen Alzahrani | 6.1 Arabic-SBERT & KNN | Short | Behavioral Psychological Conditions | يعاني طفلي من سلوك عدواني متكرر؛ إذ يضرب أخته عندما أهتم بها أو أمنحها اهتمامًا |
+| Haya Alwuhaibi | 6.1 Arabic-SBERT & KNN | Long | Personality and Self Development | زوجي يستعيض غضبًا معي ومع أفراد أسرته بشكل متكرر، ويشعر أن الناس يكنون له العداء ولا يعاملونه بالإنصاف. وألاحظ أن هذه المشكلة مرتبطة بشخصيته وطريقة تعامله، إذ يعاني من العصبية والغضب السريع، وسرعة الانفعال، وضعف في الثقة بالنفس والتحكم في المزاج |
+| Najaf Almohsen | 6.2 TF-IDF & SVM | Long | Psychotic Disorders | أسمع أصواتًا في رأسي تأمرني بأن آذي نفسي، وأشعر أن الناس يراقبونني أو يريدون الإيذاء بي. وأعاني من ضعف في التركيز والذاكرة والنسيان المتكرر، وأحيانًا أنسى الأشياء بسرعة، وأعاني من السرحان وعدم القدرة على الحفظ، مع اضطراب في النوم والأرق، ورعشة، وأحلام مزعجة |
+| Najaf Almohsen | 6.2 TF-IDF & SVM | Short | Childhood Psychological Problems | ابني يذهب للروضة، لا يستطيع الجلوس بهدوء لفترة طويلة على مقعدة |
+| Haya Alwuhaibi | 6.2 TF-IDF & SVM | Short | Other Psychological and Behavioral Issues | أشعر بالرغبة بإعادة ترتيب الأشياء من حولي دائمًا |
